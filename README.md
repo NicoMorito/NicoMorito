@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoMorito
+- 👋 Hi, I’m @NicoMorito, Argentina based artist
 - 👀 I’m interested in multimedia art
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on multimedia art development
